@@ -1,1 +1,1 @@
-# RAG_Multimodal_Chatbot
+# RAG_Multimodal_ChatBot
